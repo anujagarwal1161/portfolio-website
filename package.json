@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
+    "react-router-dom": "^7.15.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -23,6 +24,13 @@
       "react-app",
       "react-app/jest"
     ]
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "^react-router-dom$": "<rootDir>/node_modules/react-router-dom/dist/index.js",
+      "^react-router/dom$": "<rootDir>/node_modules/react-router/dist/production/dom-export.js",
+      "^react-router$": "<rootDir>/node_modules/react-router/dist/production/index.js"
+    }
   },
   "browserslist": {
     "production": [

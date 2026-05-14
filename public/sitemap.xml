@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR_DOMAIN/</loc><changefreq>weekly</changefreq><priority>1</priority></url>
+  <url><loc>https://YOUR_DOMAIN/uses</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://YOUR_DOMAIN/blog</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://YOUR_DOMAIN/blog/shipping-slo-thinking</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://YOUR_DOMAIN/blog/inference-latency-checklist</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://YOUR_DOMAIN/blog/readable-incident-reviews</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://YOUR_DOMAIN/projects/neuralos</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://YOUR_DOMAIN/projects/quantex</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://YOUR_DOMAIN/projects/gridmind</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://YOUR_DOMAIN/projects/vaultify</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+</urlset>
