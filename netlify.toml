@@ -1,0 +1,11 @@
+# Use this file if your Netlify site has "Base directory" = portfolio (repo root is above this folder).
+# Publish path is relative to the directory that contains this netlify.toml.
+
+[build]
+  command = "npm install && npm run build"
+  publish = "build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
