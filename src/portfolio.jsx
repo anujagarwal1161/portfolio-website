@@ -317,7 +317,7 @@ function WebsiteShowcase360({ reducedMotion }) {
                 letterSpacing: 0.5,
               }}
             >
-              <span style={{ color: "#5eead4" }}>https://anujagarwal.dev</span>
+              <span style={{ color: "#5eead4" }}>https://anujcodes.netlify.app/</span>
             </div>
           </div>
           <div style={{ padding: 14, minHeight: 260, position: "relative", overflow: "hidden" }}>
